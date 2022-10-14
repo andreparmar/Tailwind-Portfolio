@@ -2,7 +2,7 @@
 
 My personal UI/UX web portfolio, developed using Tailwind CSS
 
-Plugins and Features:
+Plugins & Features:
 
 Swiper.js
 
