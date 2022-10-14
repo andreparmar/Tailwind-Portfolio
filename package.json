@@ -4,9 +4,9 @@
   "description": "My web portfolio, built using Tailwind CSS",
   "main": "index.js",
   "scripts": {
-    "build": "npx tailwindcss -i ./dist/input.css -o ./main.css",
-    "watch": "npx tailwindcss -i ./dist/input.css -o ./main.css --watch",
-    "push": "npx tailwindcss -o ./dist/main.css --minify"
+    "build": "npx tailwindcss -i input.css -o ./main.css",
+    "watch": "npx tailwindcss -i input.css -o ./main.css --watch",
+    "push": "npx tailwindcss -o ./main.css --minify"
   },
   "repository": {
     "type": "git",
